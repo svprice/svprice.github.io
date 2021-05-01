@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "Data scientist and computational biologist building at the intersection of health and technology."
+  bio              : "Data scientist and computational biologist building at the intersection of health and technology"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/stephenprice100/"
   orcid            : "http://orcid.org/0000-0001-9072-7518"
   pinterest        :
   soundcloud       :
