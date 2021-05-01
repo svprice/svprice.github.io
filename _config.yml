@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About Me"
+  name             : ""
   avatar           : "profile.png"
   bio              : "" # Add short bio tagline here
   location         : # "Location"
