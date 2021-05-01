@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "CMU SCS '21 \nHealth Tech"
+  bio              : "" # Add short bio tagline here
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
